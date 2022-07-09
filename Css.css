@@ -1,0 +1,215 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+background: blue; 
+}
+
+
+body{
+	width: 815px;
+	height: 2530px;
+	margin: auto;
+	background-color: violet;
+	padding: 5px;
+	font-family:  Arial;
+}
+
+header{
+
+	width: 815px;
+	height:100px;
+	background-color:deeppink;
+	margin-top: 5px;
+	
+}
+
+section#logo{
+	width:200px;
+	height: 100px;
+	float:left;
+	background-color: white;
+
+}
+
+
+
+section#banner{
+	width: 615px;
+	height: 100px;
+	float:left ;
+	background-color: #B582BE;
+	}
+
+nav{
+	width: 815px;
+	height:60px;
+	background-color:blueviolet;
+	margin-top: 5px;
+	
+}
+
+
+
+
+
+article{
+
+	width: 600px;
+	height:2200px;
+	float:left;
+	background-color: purple;
+	margin-top: 5px;
+	padding: 5px;
+
+}
+
+aside{
+
+
+	width: 205px;
+	height:2210px;
+	float: left;
+	background-color:mediumvioletred;
+	margin-top: 5px;
+}
+
+
+footer{
+
+
+	width: 815px;
+	height:140px;
+	float:left;
+	margin-top: 5px;
+	background-color: violet;
+	font-family: 'Modern No. 20', serif;
+
+
+}
+
+
+
+
+
+h1{
+
+	padding-top: 1em;
+	font-family: verdana;
+	text-align: center;
+	font-family: 'Modern No. 20', sans-serif;
+	font-size: 2em;
+	font-weight: normal;
+
+}
+
+
+  .menu{
+
+	list-style: none;
+	padding: 0px;
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	background-color:lightseagreen;
+	font-family: 'Play', sans-serif;
+
+
+
+
+}
+
+
+.menu li a{
+	text-decoration: none;
+	color:rgb(122, 17, 122);
+	padding: 20px;
+	display: block;
+	
+
+
+}
+
+.menu li{
+	display: inline-block;
+	text-align: left;
+	
+
+
+
+
+}
+
+
+
+.menu li a:hover{
+	background-color:turquoise
+}
+
+
+
+
+	#stem{
+		padding-top: 6em;
+		padding: 2em;
+		font-size: .9em;
+		font-family: 'arial', serif;
+	}
+
+
+#stem li a{
+
+	text-decoration: none;
+}
+
+
+
+h2{
+text-align: center;
+color: #000;
+font-family: 'Modern No. 20', sans-serif;
+}
+
+p{
+	font-family: 'Bahnschrift Condensed', cursive;
+	text-align: center;
+	text-align: justify;
+}
+
+img
+{
+display: block;
+margin:auto;
+
+
+}
+
+h4{
+	text-align: center;
+	font-weight: bold;
+	padding: 1em;
+}
+
+
+.redes{
+	text-align: center;
+	list-style: none;
+	padding-bottom: 20px;
+	color:mediumpurple;
+		
+
+}
+
+
+.redes li {
+	display:inline-block;
+	
+
+}
+
+.redes li a{
+	padding: 20px;
+	display: block;
+}
